@@ -1,0 +1,28 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "Expense app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illbeheer/Project-3.git"
+  },
+  "author": "Jaison H, Filmon H, Tarik D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illbeheer/Project-3/issues"
+  },
+  "homepage": "https://github.com/illbeheer/Project-3#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.6.8",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "react-app": "^1.1.2"
+  }
+}
